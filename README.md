@@ -1,5 +1,6 @@
 # Predicting Price of Processor Based on its Features
-=============================
+**=======================================================**
+
 A predictive model to predict the price of Intel processor based on its features.
 
 Getting Started
